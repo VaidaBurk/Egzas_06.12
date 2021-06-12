@@ -55,3 +55,4 @@ function countDifferentDishesInKaunas(data) {
     console.log("Question 4: How many uniq dishes in Kaunas?");
     console.log(`Answer: ${uniqDishes.length} uniq dishes in Kaunas.`);  
 } 
+
